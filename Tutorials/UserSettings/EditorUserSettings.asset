@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 01000d075c540c0f095f5f2040205b444e151d797e7f23642c2b1960e1e1316e
+      flags: 0
+    RecentlyUsedScenePath-0:
+      value: 224247031146467a242b5c702f0a5100030357192f2d28353e663c1ac7b06607cbe926fcf3742a323016f6
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 224247031146467a242b5c712f00500219020c23222d357f1e2a183de7f37b19cbc266bad819302e3617fb350a3b1271e704001fef
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 224247031146467a242b5c762f105c15181234252d2c2f3e2a662e30e7ee312badc61fccb76e000f3a07e1392831003bfb040e34d51e080e5f1bf30705e6
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 224247031146467a242b5c762f105c15181234252d2c2f3e2a662e30e7ee312badc61fccb76e000f3a07e1392831003bfb040e34c51b020e030bb31b1ff6040a
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 224247031146467a242b5c772f0c5d1a13140c072d2627372824183df6af073be7e933faa81b16196957d0130634043ce6270805f70c0f061400e94004f1190708
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 224247031146467a242b5c742f16763918030a25631b2535232c0e7cc3c91168b4d803c0ce342b2e364cfa320d2a18
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 224247031146467a242b5c752f16763c170e173f383b69032e2c1336f1af1511c7b761d6d213133d200dfa2817701431fb1e10
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 224247031146467a242b5c7a2f004a030218150f3a2d28243e662e30e7ee312badc61fccb762001f2c11fb33091b173afc1e1a45e305031f08
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 224247031146467e150b1e2119305a035936310f093023222e200e36ddc33534e1f23ae8f3352d730a01ea32012d4e1edb2f2a03f707060e1f09f83132fe1c1004c919d115da5109c51008d7
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 224247031146467a242b5c7b2f135709051e1b39631b2535232c0e7cc3c91168bbd806e1fe29363f2a4cfa320d2a18
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 2
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
