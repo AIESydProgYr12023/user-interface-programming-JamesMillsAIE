@@ -1,12 +1,10 @@
-﻿using Sirenix.OdinInspector;
-
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace AIE09_Physics
 {
 	public class ShootBall : MonoBehaviour
 	{
-		[SerializeField, Required] private new Transform camera;
+		[SerializeField] private new Transform camera;
 		[SerializeField] private GameObject bulletPrefab;
 		[SerializeField] private LayerMask hitLayers = 1;
 
